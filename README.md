@@ -46,7 +46,7 @@ The next steps involve further analysis of the data, such as win rate analysis, 
 1. **转换时间戳**：将比赛开始时间从 Unix 时间戳转换为可读的日期格式。
 2. **英雄 ID 映射**：将英雄 ID 转换为英雄名称。
 3. **持续时间格式化**：将比赛持续时间从秒转换为“分钟:秒”的格式。
-4. **队伍标记**：根据 `player_slot` 字段标记玩家所在的队伍（光明方或黑暗方）。
+4. **队伍标记**：根据 `player_slot` 字段标记玩家所在的队伍（天辉或夜魇）。
 5. **描述性字段转换**：将 `game_mode`、`lobby_type`、`skill` 和 `leaver_status` 字段转换为描述性文本。
 
 ## 文件说明
