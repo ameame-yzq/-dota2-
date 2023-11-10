@@ -21,6 +21,7 @@ The following preprocessing steps were applied to the data:
 ## File Description
 
 - `dota2_preprocessed.csv`: The preprocessed Dota 2 match data.
+- `dota2_matches.csv`: Obtained all my match data using OpenDota's API.
 
 ## Next Steps
 
@@ -51,6 +52,7 @@ The next steps involve further analysis of the data, such as win rate analysis, 
 ## 文件说明
 
 - `dota2_preprocessed.csv`：预处理后的 Dota 2 比赛数据。
+- `dota2_matches.csv`：使用 OpenDota 的 API 获取了我的所有比赛数据。
 
 ## 后续步骤
 
